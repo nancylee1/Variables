@@ -13,7 +13,7 @@ Console.WriteLine($"Has Brown Eyes: {hasBrownEyes}");
 
 double footSize = 7.5;
 
-Console.WriteLine($"My show size is {footSize}.");
+Console.WriteLine($"My shoe size is {footSize}.");
 
 decimal piValue = 3.14m;
 
